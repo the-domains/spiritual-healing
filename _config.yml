@@ -1,0 +1,28 @@
+name: Spiritual Healing
+favicon: null
+layout_spectrum: 0.9712144527584314
+typography_spectrum: 0.09865188645198941
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8919321610592306
+  lightness: 0.38074428238905966
+  saturation: 0.9389946558512747
+  rhythmicContrast: 0.9159855402540416
+purpose: []
